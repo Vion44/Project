@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
 <br/>
-<center><h3>Kim HyeongJu</h3><br/></center>
-<center>단국대학교 소프트웨어학과를 재학중인 김형주 입니다.<br/></center>
-<center>저는 정보보안 전문가가 목표입니다.<br/></center>
-<center>해외취업에 관심이 있어 외국어 공부와 소프트웨어 공부를 병행하고 있습니다.<br/></center>
- <center>취미는 야구이며 조립하는 일을 좋아합니다.<br/></center>
+<h3>Kim HyeongJu</h3><br/>
+단국대학교 소프트웨어학과를 재학중인 김형주 입니다.<br/>
+저는 정보보안 전문가가 목표입니다.<br/>
+해외취업에 관심이 있어 외국어 공부와 소프트웨어 공부를 병행하고 있습니다.<br/>
+취미는 야구이며 조립하는 일을 좋아합니다.<br/>
 <br/><br/>
 
  |배운언어|이해도|자신있는 점|부족한 점|
