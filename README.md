@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
+<h3>Kim HyeongJu</h3><br/>
+단국대학교 소프트웨어학과를 재학중인 김형주 입니다.<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
 <br/><br/>
