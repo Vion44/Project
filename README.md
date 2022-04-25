@@ -4,13 +4,16 @@
 <h3>Kim HyeongJu</h3><br/>
 단국대학교 소프트웨어학과를 재학중인 김형주 입니다.<br/>
 저는 정보보안 전문가가 목표입니다.<br/>
-Have a day full of JOY today.
+
 <br/><br/>
-  
-﹏﹏﹏﹏﹏﹏﹏
+ |제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 공부한 언어 목록 💻</h3>
 
 <br/>
 
@@ -20,10 +23,8 @@ Have a day full of JOY today.
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
