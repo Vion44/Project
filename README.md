@@ -4,16 +4,20 @@
 <h3>Kim HyeongJu</h3><br/>
 단국대학교 소프트웨어학과를 재학중인 김형주 입니다.<br/>
 저는 정보보안 전문가가 목표입니다.<br/>
-
+해외취업에 관심이 있어 외국어 공부와 소프트웨어 공부를 병행하고 있습니다.<br/>
+취미는 야구이며 조립하는 일을 좋아합니다.<br/>
 <br/><br/>
- |제목|내용|설명|
+ |배운언어|진행도|개선할 점|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|C언어|35%|기초를 더 공부해야함|
+|Java|35%|기초를 더 공부해야함|
+|HTML|85%|사이트를 좀더 효율적으로 만들기|
+|Arduino|60%|소리반응기 관련 기초 공부|
+|Python|80%|서버관리 기술을 익혀야 함|
+ 
 <br/><br/>
  
-<h3>💻 공부한 언어 목록 💻</h3>
+<h3>💻 공부한 언어들 💻</h3>
 
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -23,9 +27,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
